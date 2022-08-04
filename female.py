@@ -18,5 +18,5 @@ class Female(Human):
         return "Enjoy driving"
 
 female_object = Female()
-print(female_object.hair)
-print(female_object.code())
+# print(female_object.hair)
+# print(female_object.code())

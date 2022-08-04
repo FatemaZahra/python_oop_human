@@ -18,5 +18,5 @@ class Male(Human):
         return "Swimming can improve exercise-induced asthma"
 
 male_object = Male()
-print(male_object.beard)
-print(male_object.talk())
+# print(male_object.beard)
+# print(male_object.talk())
