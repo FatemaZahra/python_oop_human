@@ -16,7 +16,7 @@ class Human:
 
 human_object = Human()
 
-print(human_object.nose)
-print(human_object.sleep())
+# print(human_object.nose)
+# print(human_object.sleep())
 
 
