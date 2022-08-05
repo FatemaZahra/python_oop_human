@@ -164,6 +164,9 @@ It shows what is essential and hides what is unnecessary for the user to see. Gi
 ### Encapsulation
 
 It restricts access of variables and methods which prevents accidental modification
+- Public: Accsessible within or outside a class
+- Protected: Accessible within the class and its sub-classes
+- Private: Accessible only within a class
 
 ![Screenshot 2022-08-05 at 08 47 32](https://user-images.githubusercontent.com/102330725/183028668-00d9ad4c-34d4-430a-abb2-c101ece1403d.png)
 
