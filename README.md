@@ -4,10 +4,10 @@
 
 Object Oriented Programming (OOP) is a programming model that organizes software design around data/ objects, rather than functions and logic. The structure includes:
 
-- Class: code written that acts as blueprint for individual objects, properties and methods 
-- Objects: Thing you want to store and process data about.
-- Methods/Operations - Functions that are defined inside a class that describe the behaviors of an object.​
-- Properties/Attributes -  Defined in the class template and represent the state of an object.
+- **Class:** code written that acts as blueprint for individual objects, properties and methods 
+- **Objects:** Thing you want to store and process data about.
+- **Methods/Operations:** Functions that are defined inside a class that describe the behaviors of an object.​
+- **Properties/Attributes:**  Defined in the class template and represent the state of an object.
 
 ## Human Example
 
@@ -186,8 +186,8 @@ The condition of occurrence in several different shapes/forms.
 
 ### Keywords explained
 
-- super(): The super() function is used to give access to methods and properties of a parent or sibling class. The super() function returns an object that represents the parent class.
+- **super():** The super() function is used to give access to methods and properties of a parent or sibling class. The super() function returns an object that represents the parent class.
 
-- init(): The __init__ function is called every time an object is created from a class. The __init__ method lets the class initialize the object's attributes and serves no other purpose. It is only used within classes
+- **init():** The __init__ function is called every time an object is created from a class. The __init__ method lets the class initialize the object's attributes and serves no other purpose. It is only used within classes
 
-- pass: accept the default parent methods
+- **pass:** accept the default parent methods
